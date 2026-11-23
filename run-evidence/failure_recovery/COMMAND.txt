@@ -1,0 +1,2 @@
+python -m src.main --input examples/sample_input.txt
+Expected: successful recovery run after failure.
