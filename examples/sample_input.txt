@@ -1,0 +1,25 @@
+The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it's that recording the content is only about twenty percent of the work. The other eighty percent? Turning that raw recording into something that actually reaches people where they are: on Instagram, on LinkedIn, in someone's YouTube Shorts feed at eleven o'clock at night.
+
+And that eighty percent is where most creators quietly give up.
+
+Here's what the process actually looks like, if you're doing it without any real system in place. You finish recording. Maybe it's an hour-long interview with a guest you're genuinely excited about. You upload the file, you watch it back — or you try to — and somewhere around the fifteen-minute mark you start losing focus. You make a few rough notes about timestamps. You think, "I'll come back to this." You don't come back to it. Or you do, three weeks later, when the conversation feels stale and you've lost the energy to do it justice.
+
+That's the content backlog. It's not laziness. It's friction.
+
+The friction comes from tool-switching. You're jumping between your video editor to cut clips, a caption tool to generate subtitles, a writing app to draft the LinkedIn post, maybe a design tool for the thumbnail or the quote card. Each transition has a startup cost — reopening the file, re-orienting yourself to where you left off, remembering what you were trying to highlight and why. By the time you've done that four or five times for a single piece of content, you've spent more time on the repurposing than you did on the original recording.
+
+The workflow, ideally, should look something like this: you start with the transcript, not the video. Working from text is dramatically faster than scrubbing through a timeline. You read through, you highlight the moments that land — the sharp insight, the moment of genuine surprise, the sentence that would stop someone mid-scroll. Then you clip those moments in the video, you write platform-specific copy around each one, and you schedule them out across the week.
+
+That's the theory. In practice, most people skip the transcript step because generating an accurate one felt like a whole separate task — until recently.
+
+AI has changed this. Transcript-based editing workflows now exist where the tool follows your cursor through the text rather than the timeline. You delete a sentence in the transcript and the video edits itself. That alone removes one of the biggest friction points in the whole process.
+
+But here's where I'd push back on anyone who thinks AI solves everything: it doesn't. Not yet. The hook is the hardest part of any short-form clip, and AI tends to get it wrong in a very specific way. It identifies moments that are informationally dense rather than emotionally compelling. It'll pull a clip where someone explains a concept clearly, when what you actually needed was the moment just before that — the relatable frustration, the unexpected admission, the thing that makes someone feel seen before you give them the answer.
+
+Human judgment still matters enormously here. You need to review every AI-generated hook and ask yourself: would I stop scrolling for this? Does this sound like me, or does it sound like a press release? Is this giving too much away before the payoff?
+
+A few things I've learned that actually help: lead with the best moment, not the chronological first moment. Platform context is everything — what works as a LinkedIn carousel is completely different from what works as a Reel. And never publish AI output without reading it out loud first. If it doesn't sound like something you'd actually say, rewrite it until it does.
+
+Repurposing content is a skill, and like most skills, the system matters more than the effort. Build the system once, and the eighty percent gets a lot more manageable.
