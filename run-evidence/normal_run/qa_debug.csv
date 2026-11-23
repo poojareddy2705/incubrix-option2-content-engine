@@ -1,0 +1,493 @@
+asset_id,platform,format,content_pillar,hook,caption,cta,utm_link,final_file_url,source_file_url,source_input,tools_used,rights_checked,ai_label_needed,scheduled_date,test_published_url,impressions_or_views,engagement_rate,clicks,status,notes,duplicate_check,completeness_check,hashtags,target_metric,claim_status,quality_score,brand_score,semantic_similarity,rejection_reason,experiment_id,funnel_stage,scheduled_time,source_excerpt
+YT_001,YouTube Shorts,short video,Practical AI and Human Judgment,AI wrote this caption. Here's what I changed before posting it.,"Source-specific lens: The Content Repurposing Problem Nobody Talks About I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard.
+
+[HOOK — 0:00–0:03]
+AI wrote this caption. Here's what I changed before posting it.
+
+[MAIN — 0:03–0:50]
+The AI draft was grammatically correct.
+It was relevant. It was the right length.
+And it sounded like it could have been written by any creator on the platform.
+
+So I made three changes:
+One — I replaced the generic opening with the specific thing I actually said.
+Two — I added the detail that only I would know.
+Three — I cut the last line because it was the AI trying to close, not me.
+
+The AI got me 80% of the way there in ten seconds.
+The last 20% took three minutes and made it actually sound like me.
+
+[CTA — 0:50–0:58]
+That's the AI + human workflow I actually use. Subscribe for more.
+
+[Visual concept: before/after text comparison on screen, specific edits highlighted]",Subscribe for practical AI + creator workflow content.,https://example.com?utm_source=youtube&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=YT_001,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],No,Yes,2026-12-02,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.] | UTM: UTM link tracked via description. Click-through not assumed. | RIGHTS: media/footage rights require human verification,PASS,PASS,#AIContent #CreatorVoice #ContentEditing #YouTubeShorts,,needs_verification,86.0,100.0,0.0,,EXP_CTA:outcome-specific,awareness,14:00,avoiding generic AI content and preserving creator voice
+IG_002,Instagram,carousel,Product-in-Action,Guided Audio workflow: from idea to voiceover in one session.,"Source-specific lens: The other eighty percent? Turning that raw recording into something that actually reaches people where they are: on Instagram, on LinkedIn, in someone's YouTube Shorts feed at eleven o'clock at night.
+
+Slide 1: Guided Audio — from idea to voiceover without leaving the tool
+Slide 2: Step 1 — Enter your idea or topic
+Slide 3: Step 2 — AI generates and you refine the script
+Slide 4: Step 3 — Choose your style and voice
+Slide 5: Step 4 — Preview and adjust pause/stability controls
+Slide 6: Step 5 — Generate final voiceover
+Slide 7: This is what a contained audio workflow looks like — no switching tools
+
+#AudioContent #VoiceoverWorkflow #IncuBrix #ContentCreation",Save this if you create audio content. Link to try it in bio. 🔗,https://example.com?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=IG_002,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],No,Yes,2026-12-01,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.] | UTM: UTM link tracked via bio/link-in-bio. Not embedded in post. | RIGHTS: media/footage rights require human verification,PASS,PASS,#AudioContent #VoiceoverWorkflow #IncuBrix #ContentCreation,,verified,91.0,100.0,0.0376,,EXP_FORMAT:demo-led,consideration,11:00,"guided Audio workflow: script generation, style, voice, voiceover"
+IG_003,Instagram,carousel,Repurposing Education,One episode. 7 pieces of content. Here's the breakdown.,"Source-specific lens: And that eighty percent is where most creators quietly give up.
+
+Slide 1: One episode. 7 pieces of content.
+Slide 2: 1 × LinkedIn educational post (the main lesson)
+Slide 3: 1 × LinkedIn text post (the contrarian take)
+Slide 4: 1 × Instagram Reel (the best 30-second clip)
+Slide 5: 1 × Instagram carousel (the step-by-step breakdown)
+Slide 6: 1 × YouTube Short (the hook moment)
+Slide 7: 2 × short-form written pieces (email or story format)
+Slide 8: Start with the transcript. It makes all 7 easier.
+
+#ContentRepurposing #CreatorStrategy #ContentCalendar #RepurposeTips",Save this. Share with another creator who needs to hear it. 🔖,https://example.com?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=IG_003,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],No,Yes,2026-12-03,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.] | UTM: UTM link tracked via bio/link-in-bio. Not embedded in post. | RIGHTS: media/footage rights require human verification,PASS,PASS,#ContentRepurposing #CreatorStrategy #ContentCalendar #RepurposeTips,,needs_verification,88.0,100.0,0.0867,,EXP_FORMAT:educational,awareness,11:00,turning one long-form asset into multiple posts
+LI_004,LinkedIn,text post,Practical AI and Human Judgment,What to review before publishing any AI-generated caption.,"Source-specific lens: Here's what the process actually looks like, if you're doing it without any real system in place.
+
+A checklist I run on every AI-generated caption before it goes live:
+
+□ Does it sound like me, or like 'a creator'?
+□ Is the hook specific to this piece of content, or could it be anyone's hook?
+□ Did the AI invent any detail I didn't say? (This happens more than you'd expect.)
+□ Is the CTA appropriate for this platform?
+□ Am I comfortable if this is the first post a new follower sees?
+□ Is there any claim here that I can't personally verify?
+
+Six questions. Two minutes. These protect the content quality that matters.
+
+The AI gets you fast. The checklist keeps you accurate.",Save this checklist. Use it before your next AI-assisted post goes live.,https://example.com?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=LI_004,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],Yes,Yes,2026-12-02,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.],PASS,PASS,#AIContent #ContentReview #CreatorQuality #PublishingChecklist,,needs_verification,80.0,100.0,0.1192,,EXP_CTA:generic,consideration,09:00,where human review is needed and avoiding generic AI content
+LI_005,LinkedIn,text post,Creator Pain and Workflow Friction,"Consistency in content publishing is a systems question, not a willpower question.","Source-specific lens: You finish recording.
+
+Every creator who's been consistent for more than 6 months will tell you the same thing:
+
+They didn't get more disciplined. They got a better system.
+
+The workflow that makes publishing consistent:
+• A fixed recording cadence (not a 'when I feel inspired' cadence)
+• A repurposing process that runs in parallel, not after
+• A content queue that fills faster than it empties
+• One decision point: approve or reject, never 'start from scratch'
+
+Consistency comes from removing the decisions that drain you between recording and publishing.
+
+What's the decision that slows your publishing cadence the most?",Follow for frameworks that actually reduce publishing friction. →,https://example.com?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=LI_005,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],Yes,Yes,2026-12-04,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.],PASS,PASS,#ContentConsistency #CreatorSystems #PublishingCadence,,needs_verification,84.0,100.0,0.0556,,EXP_CTA:outcome-specific,awareness,09:00,inconsistent publishing and editing overhead
+LI_006,LinkedIn,text post,Product-in-Action,Here's how the Clips scoring interface in IncuBrix works — and why the criteria matter.,"Source-specific lens: Maybe it's an hour-long interview with a guest you're genuinely excited about.
+
+When you upload a long-form video or audio to IncuBrix's Clips section, it evaluates potential clips across five dimensions:
+
+• Hook — does the clip open with something that earns attention immediately?
+• Emotion — does it create an emotional response (surprise, recognition, agreement)?
+• Relevance — is it topically aligned with what your audience cares about?
+• Novelty — does it say something the audience hasn't heard a hundred times?
+• Virality — does it have the structure that tends to get reshared?
+
+These aren't arbitrary scores. They map to what actually determines if someone watches past the first three seconds.
+
+The scores are starting points for your judgment, not a replacement for it.",What criteria do you currently use to pick which clips are worth repurposing?,https://example.com?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=LI_006,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],Yes,Yes,2026-12-07,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.],PASS,PASS,#ClipScoring #ContentAnalysis #IncuBrix #CreatorTools,,verified,88.0,100.0,0.0549,,EXP_FORMAT:demo-led,consideration,09:00,"Clips scoring: Hook, Emotion, Relevance, Novelty, Virality"
+LI_007,LinkedIn,text post,Creator Pain and Workflow Friction,The content backlog is not a motivation problem. It's a systems problem.,"Source-specific lens: You upload the file, you watch it back — or you try to — and somewhere around the fifteen-minute mark you start losing focus.
+
+Every creator I've talked to has a folder of recordings they haven't turned into posts yet.
+
+They assume it's because they're behind, or not disciplined enough.
+
+Usually it's because the gap between 'recording done' and 'post published' has too many manual steps.
+
+The backlog grows when the repurposing workflow is slower than the recording cadence.
+
+Fix the workflow, not the motivation.
+
+What's the specific step in your publishing process that creates the most friction?",Share this with a creator who calls their content backlog a 'laziness problem'.,https://example.com?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=LI_007,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],Yes,Yes,2026-12-09,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.],PASS,PASS,#ContentBacklog #CreatorBurnout #ContentSystems #SoloCreator,,needs_verification,81.0,100.0,0.1282,,EXP_HOOK:pain-led,awareness,09:00,content backlog and repetitive repurposing work
+IG_008,Instagram,graphic,Practical AI and Human Judgment,AI does the first pass. You do the final call.,"Source-specific lens: You make a few rough notes about timestamps.
+
+Graphic concept: Split design
+Left: AI icon — 'First draft in seconds'
+Right: Human icon — 'Reviewed before it goes live'
+Centre: Arrow pointing right → 'Your voice, faster'
+
+Caption:
+Every AI content tool is only as good as the human reviewing it.
+
+AI accelerates the mechanical. You protect the meaningful.
+
+#AIContent #CreatorTools #HumanFirst #ContentStrategy",Save this. Share with a creator using AI blindly. 📌,https://example.com?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=IG_008,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],No,Yes,2026-12-05,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.] | UTM: UTM link tracked via bio/link-in-bio. Not embedded in post. | RIGHTS: media/footage rights require human verification,PASS,PASS,#AIContent #CreatorTools #HumanFirst #ContentStrategy,,needs_verification,80.0,100.0,0.1023,,EXP_CTA:generic,awareness,11:00,where AI helps and where human review is needed
+IG_009,Instagram,short video,Product-in-Action,What does AI clip scoring actually look like? 30-second walkthrough.,"Source-specific lens: You think, ""I'll come back to this.
+
+Five scores. One clip selection decision.
+
+Hook / Emotion / Relevance / Novelty / Virality
+
+Not a replacement for your judgment — a faster starting point.
+
+IncuBrix Clips scoring interface — link in bio for more. 🔗
+
+#ClipScoring #ContentTools #IncuBrix #CreatorWorkflow",Follow for more workflow breakdowns. Link in bio. 🔗,https://example.com?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=IG_009,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],No,Yes,2026-12-08,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.] | UTM: UTM link tracked via bio/link-in-bio. Not embedded in post. | RIGHTS: media/footage rights require human verification,PASS,PASS,#ClipScoring #ContentTools #IncuBrix #CreatorWorkflow,,verified,90.0,100.0,0.1409,,EXP_FORMAT:demo-led,consideration,11:00,"Clips scoring: Hook, Emotion, Relevance, Novelty, Virality"
+YT_010,YouTube Shorts,short video,Creator Pain and Workflow Friction,You have 3 hours of recordings and zero posts. Here's why.,"Source-specific lens: "" You don't come back to it.
+
+[HOOK — 0:00–0:03]
+You have 3 hours of recordings and zero posts. Here's why.
+
+[MAIN — 0:03–0:45]
+Most creators think the bottleneck is editing. It's not.
+It's the five manual steps between 'recording done' and 'post published'.
+
+Step one: download the recording.
+Step two: upload it to a transcription tool.
+Step three: download the transcript.
+Step four: manually find the good clips.
+Step five: write captions from scratch.
+
+Five steps. Each one breaks the momentum.
+
+[CTA — 0:45–0:55]
+If this is your workflow, there's a faster path. Subscribe for the breakdown.
+
+[Visual concept: creator at desk, screen shows open tabs and file folders — chaotic workflow visual]",Subscribe for practical creator workflow breakdowns. No fluff.,https://example.com?utm_source=youtube&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=YT_010,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],No,Yes,2026-12-06,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.] | UTM: UTM link tracked via description. Click-through not assumed. | RIGHTS: media/footage rights require human verification,PASS,PASS,#ContentCreators #CreatorWorkflow #YouTubeShorts #ContentRepurposing,,needs_verification,86.0,100.0,0.1177,,EXP_HOOK:pain-led,awareness,14:00,tool switching and post-recording bottlenecks
+IG_011,Instagram,short video,Repurposing Education,Stop rewatching your recordings to find clips. Do this instead.,"Source-specific lens: Or you do, three weeks later, when the conversation feels stale and you've lost the energy to do it justice.
+
+Transcript-first clip selection:
+
+1. Read transcript, not video
+2. Highlight moments with strong contrast or specific numbers
+3. Check the hook — first 3 seconds
+4. Test for standalone clarity
+
+Faster. More consistent. No more scrubbing.
+
+#ContentRepurposing #PodcastClips #CreatorTips #VideoEditing",Save this process. Try it on your next episode. 📌,https://example.com?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=IG_011,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],No,Yes,2026-12-10,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.] | UTM: UTM link tracked via bio/link-in-bio. Not embedded in post. | RIGHTS: media/footage rights require human verification,PASS,PASS,#ContentRepurposing #PodcastClips #CreatorTips #VideoEditing,,needs_verification,89.0,100.0,0.0583,,EXP_HOOK:outcome-led,consideration,11:00,transcript-based editing workflow
+LI_012,LinkedIn,text post,Repurposing Education,Platform adaptation is not just resizing. It's recontextualizing.,"Source-specific lens: That's the content backlog.
+
+Taking a LinkedIn post and posting it on Instagram is not repurposing. It's reposting.
+
+Real platform adaptation means:
+
+LinkedIn version → professional lesson, structured takeaway, direct CTA
+Instagram version → compressed emotional moment, visual-first, save-worthy
+YouTube Shorts version → immediate hook, one idea, spoken-language pacing
+
+Same source insight. Three different executions.
+
+The source is the raw material. Platform adaptation is the craft.
+
+Which platform adaptation do you find hardest to get right?",Save this if you're building a cross-platform content strategy.,https://example.com?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=LI_012,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],Yes,Yes,2026-12-11,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.],PASS,PASS,#PlatformStrategy #ContentAdaptation #RepurposingContent #CreatorEducation,,needs_verification,81.0,100.0,0.0733,,EXP_FORMAT:educational,awareness,09:00,"platform adaptation for LinkedIn, Instagram, YouTube"
+LI_013,LinkedIn,text post,Repurposing Education,The 3-word test for every clip you're about to repurpose.,"Source-specific lens: It's not laziness.
+
+Before you spend time turning a clip into a post, ask:
+
+What are the first three words?
+
+If those three words don't create curiosity, contrast, or a specific promise — the clip probably won't stop anyone's scroll.
+
+Strong first-three-word patterns:
+→ 'Most creators ignore...' (contrast)
+→ 'Here's what happened...' (story)
+→ 'Stop doing this...' (imperative)
+→ 'The real problem...' (problem framing)
+→ 'After 100 episodes...' (specific)
+
+Weak first-three-word patterns:
+→ 'In this video...'
+→ 'Today we'll talk...'
+→ 'Hey everyone, so...'
+
+Three words. One filter. Run every clip through it.",What's the first three words of your best-performing post? Drop it below.,https://example.com?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=LI_013,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],Yes,Yes,2026-12-14,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.],PASS,PASS,#ContentRepurposing #HookWriting #CreatorStrategy,,needs_verification,83.0,100.0,0.0844,,EXP_HOOK:outcome-led,consideration,09:00,hook selection
+IG_014,Instagram,carousel,Creator Pain and Workflow Friction,7 signs your content workflow is working against you.,"Source-specific lens: It's friction.
+
+Slide 1: 7 signs your content workflow is working against you
+Slide 2: 1. You have more recordings than posts
+Slide 3: 2. You forget what you recorded 2 weeks ago
+Slide 4: 3. You rewrite captions from scratch every time
+Slide 5: 4. Your 'publish' tab has more drafts than scheduled posts
+Slide 6: 5. You switch between 4+ tools before anything goes live
+Slide 7: 6. You post inconsistently because editing takes too long
+Slide 8: 7. You avoid repurposing because it feels like starting over
+Slide 9: The workflow is broken. Not you. Let's fix the system.
+
+#ContentWorkflow #CreatorBurnout #SoloCreator #ContentSystems",Save this. Share with a creator who needs to hear it. 📌,https://example.com?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=IG_014,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],No,Yes,2026-12-12,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.] | UTM: UTM link tracked via bio/link-in-bio. Not embedded in post. | RIGHTS: media/footage rights require human verification,PASS,PASS,#ContentWorkflow #CreatorBurnout #SoloCreator #ContentSystems,,needs_verification,93.0,100.0,0.1049,,EXP_FORMAT:educational,awareness,11:00,"tool switching, content backlog, repetitive repurposing"
+YT_015,YouTube Shorts,short video,Repurposing Education,The best clip from your last podcast? It's probably not the one you think.,"Source-specific lens: The friction comes from tool-switching.
+
+[HOOK — 0:00–0:03]
+The best clip from your last podcast? It's probably not the one you think.
+
+[MAIN — 0:03–0:48]
+Most creators pick clips they remember as good.
+But memory is biased toward what felt good in the moment, not what performs.
+
+What actually determines a strong clip:
+One — the first three seconds create an open loop or strong contrast.
+Two — it doesn't require the full episode context to make sense.
+Three — there's a specific, memorable detail — a number, a name, a turning point.
+
+Start with the transcript. Read it cold. The moments that stop you are the clips.
+
+[CTA — 0:48–0:58]
+Subscribe for more practical repurposing frameworks.
+
+[Visual concept: split screen — creator picks one clip, transcript highlights a different better one]",Subscribe. New repurposing framework every week.,https://example.com?utm_source=youtube&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=YT_015,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],No,Yes,2026-12-09,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.] | UTM: UTM link tracked via description. Click-through not assumed. | RIGHTS: media/footage rights require human verification,PASS,PASS,#PodcastClips #ContentRepurposing #CreatorTips #YouTubeShorts,,needs_verification,84.0,100.0,0.1071,,EXP_HOOK:outcome-led,consideration,14:00,hook selection and clip strategy
+YT_016,YouTube Shorts,short video,Creator Pain and Workflow Friction,"If your content calendar is empty, it's not a motivation issue.","Source-specific lens: You're jumping between your video editor to cut clips, a caption tool to generate subtitles, a writing app to draft the LinkedIn post, maybe a design tool for the thumbnail or the.
+
+[HOOK — 0:00–0:03]
+If your content calendar is empty, it's not a motivation issue.
+
+[MAIN — 0:03–0:48]
+Here's what an empty calendar usually means:
+
+Your repurposing workflow takes longer than your publishing cadence.
+So the queue runs out before you can refill it.
+
+The fix isn't to post more. It's to shorten the gap between recording and posting.
+
+One recording. Multiple formats. One workflow.
+That's what keeps the calendar full.
+
+[CTA — 0:48–0:58]
+Subscribe for practical creator workflow content. New video every week.
+
+[Visual concept: empty calendar grid, then same calendar filling up with scheduled posts]",Subscribe for weekly creator workflow breakdowns.,https://example.com?utm_source=youtube&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=YT_016,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],No,Yes,2026-12-13,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.] | UTM: UTM link tracked via description. Click-through not assumed. | RIGHTS: media/footage rights require human verification,PASS,PASS,#ContentCalendar #CreatorWorkflow #RepurposeContent #YouTubeShorts,,needs_verification,89.0,100.0,0.1342,,EXP_HOOK:pain-led,awareness,14:00,inconsistent publishing and content backlog
+LI_017,LinkedIn,text post,Repurposing Education,One 45-minute podcast episode can produce 8 platform-ready posts — if you know where to look.,"Source-specific lens: Each transition has a startup cost — reopening the file, re-orienting yourself to where you left off, remembering what you were trying to highlight and why.
+
+Most creators repurpose content by watching their recordings and picking moments they remember.
+
+That's inefficient and inconsistent.
+
+A better approach:
+
+1. Start with the transcript, not the video
+2. Scan for moments with strong contrast, specific numbers, or a surprising insight
+3. Identify the hook first — the first 3 words of a clip matter more than the next 60 seconds
+4. Adapt each moment for platform context:
+   • LinkedIn: add the professional lesson
+   • Instagram: compress to the visual moment
+   • YouTube Shorts: open with the hook immediately
+
+The clip isn't the content. The clip is the starting point.
+
+What's your current clip selection process?",Save this post if you're building a repurposing workflow. I'll go deeper on each step.,https://example.com?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=LI_017,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],Yes,Yes,2026-12-16,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.],PASS,PASS,#ContentRepurposing #PodcastClips #CreatorStrategy #LongFormContent,,needs_verification,82.0,100.0,0.1287,,EXP_HOOK:outcome-led,consideration,09:00,turning one long-form asset into multiple posts
+IG_018,Instagram,short video,Creator Pain and Workflow Friction,Your content backlog isn't a you problem. It's a workflow problem.,"Source-specific lens: By the time you've done that four or five times for a single piece of content, you've spent more time on the repurposing than you did on the original recording.
+
+Three signs your repurposing workflow is broken:
+
+1. Your drafts folder is bigger than your published feed
+2. You're rediscovering old ideas when recording new ones
+3. You spend more time on logistics than on the actual content
+
+Fix the system, not the schedule.
+
+#ContentBacklog #CreatorSystems #SoloCreator #ContentWorkflow","Follow for practical creator workflow tips. No hype, just process. 📌",https://example.com?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=IG_018,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],No,Yes,2026-12-15,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.] | UTM: UTM link tracked via bio/link-in-bio. Not embedded in post. | RIGHTS: media/footage rights require human verification,PASS,PASS,#ContentBacklog #CreatorSystems #SoloCreator #ContentWorkflow,,needs_verification,90.0,100.0,0.1319,,EXP_HOOK:pain-led,awareness,11:00,content backlog and repetitive repurposing work
+LI_019,LinkedIn,text post,Product-in-Action,Transcript-based editing changed how I cut long-form video — here's what that workflow looks like.,"Source-specific lens: The workflow, ideally, should look something like this: you start with the transcript, not the video.
+
+Instead of scrubbing through a timeline, you edit the words.
+
+Find the sentence you want to cut → delete it from the transcript → the video updates automatically.
+
+For a 45-minute recording, this approach typically:
+• Removes filler words and false starts faster than manual trimming
+• Makes it easier to identify the strongest 60-second segment
+• Gives you a reusable document to pull captions from
+
+IncuBrix has a transcript-based editing mode paired with Smart Cut and a Hooks & Titles generator — which means you can go from raw recording to shortlist of clips without touching the video timeline.
+
+This isn't magic. It's a faster interface for a process you're already doing.",Link in comments to see the transcript editing workflow in action.,https://example.com?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=LI_019,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],Yes,Yes,2026-12-18,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.],PASS,PASS,#VideoEditing #TranscriptEditing #ContentWorkflow #IncuBrix,,verified,91.0,100.0,0.1056,,EXP_FORMAT:demo-led,consideration,09:00,"transcript-based editing, Smart Cut, Hooks and Titles"
+YT_020,YouTube Shorts,short video,Product-in-Action,Five scores. One clip decision. This is how AI clip scoring works.,"Source-specific lens: Working from text is dramatically faster than scrubbing through a timeline.
+
+[HOOK — 0:00–0:03]
+Five scores. One clip decision. This is how AI clip scoring works.
+
+[MAIN — 0:03–0:50]
+When IncuBrix analyzes a clip, it scores five things:
+
+Hook strength — does it earn attention in the first three seconds?
+Emotional resonance — does it create a feeling?
+Relevance — is it aligned with what your audience cares about?
+Novelty — does it say something the audience hasn't heard before?
+Viral potential — does it have the structure that gets reshared?
+
+These aren't just numbers. They're a lens for the same decision you'd make manually — just faster.
+You still decide. The scores just surface the best candidates first.
+
+[CTA — 0:50–0:58]
+Subscribe to see more of this workflow in action.
+
+[Visual concept: screen recording showing Clips scoring interface with five score bars updating]",Subscribe for more IncuBrix workflow walkthroughs.,https://example.com?utm_source=youtube&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=YT_020,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],No,Yes,2026-12-16,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.] | UTM: UTM link tracked via description. Click-through not assumed. | RIGHTS: media/footage rights require human verification,PASS,PASS,#ClipScoring #IncuBrix #ContentWorkflow #YouTubeShorts,,verified,90.0,100.0,0.2674,,EXP_FORMAT:demo-led,consideration,14:00,"Clips scoring: Hook, Emotion, Relevance, Novelty, Virality"
+LI_021,LinkedIn,carousel,Product-in-Action,The IncuBrix publishing workflow — from content to published across platforms.,"Source-specific lens: You read through, you highlight the moments that land — the sharp insight, the moment of genuine surprise, the sentence that would stop someone mid-scroll.
+
+Slide 1: From content to published — the IncuBrix publishing workflow
+Slide 2: Step 1 — Content starts in Home: Text, Audio, Video, Clips, or Editor
+Slide 3: Step 2 — Process and edit within the tool (transcript editing / Smart Cut / Clips scoring)
+Slide 4: Step 3 — Review and finalize in Content Hub
+Slide 5: Step 4 — Connect your social platform accounts via Connections
+Slide 6: Step 5 — Schedule and publish via the Publishing workflow
+Slide 7: Step 6 — Track in Dashboard and Analytics
+Slide 8: One tool. Full workflow. Fewer tabs.
+
+[Note: Dashboard showed sample/demo metrics during review — actual metrics will reflect your content performance]",What step in your publishing workflow creates the most friction? Drop a comment.,https://example.com?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=LI_021,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],Yes,Yes,2026-12-21,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.],PASS,PASS,#ContentPublishing #CreatorWorkflow #IncuBrix #ContentManagement,,verified,91.0,100.0,0.1172,,EXP_FORMAT:demo-led,conversion,09:00,"publishing workflow, Content Hub, Connections, Dashboard"
+LI_022,LinkedIn,carousel,Repurposing Education,5 questions to ask before you repurpose any long-form content.,"Source-specific lens: Then you clip those moments in the video, you write platform-specific copy around each one, and you schedule them out across the week.
+
+Not every moment from a podcast or webinar is worth turning into a post.
+
+Before you repurpose, ask:
+
+1. Does this stand alone? (Without the full context, does it still make sense?)
+2. Is the hook specific? (Vague observations don't stop the scroll.)
+3. Does it teach or demonstrate something? (Entertainment alone rarely converts.)
+4. Is it platform-appropriate? (LinkedIn wants the lesson. Instagram wants the moment.)
+5. Would you be comfortable if this was the first thing a new follower saw?
+
+Five filters. Use them before you post.
+
+[Carousel: each question on its own slide with a one-line example]",Save this carousel to review before your next repurposing session.,https://example.com?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=LI_022,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],Yes,Yes,2026-12-23,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.],PASS,PASS,#ContentRepurposing #CreatorEducation #SocialMediaStrategy,,needs_verification,90.0,100.0,0.1385,,EXP_FORMAT:educational,awareness,09:00,hook selection and clip strategy
+IG_023,Instagram,short video,Practical AI and Human Judgment,The 20% of your AI caption you should always rewrite.,"Source-specific lens: That's the theory.
+
+AI gets you 80% there.
+
+Here's the 20% that always needs you:
+→ The specific detail only you know
+→ The word choice that sounds like your voice
+→ The CTA that fits your actual offer
+
+AI is fast. You make it real.
+
+#AIContent #CreatorVoice #ContentEditing #CreatorTips",Save this. Apply it to your next AI draft. 📌,https://example.com?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=IG_023,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],No,Yes,2026-12-17,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.] | UTM: UTM link tracked via bio/link-in-bio. Not embedded in post. | RIGHTS: media/footage rights require human verification,PASS,PASS,#AIContent #CreatorVoice #ContentEditing #CreatorTips,,needs_verification,84.0,100.0,0.1144,,EXP_CTA:outcome-specific,consideration,11:00,preserving creator voice with AI assistance
+LI_024,LinkedIn,text post,Practical AI and Human Judgment,The worst AI content sounds like it could have been written by anyone. That's the problem.,"Source-specific lens: In practice, most people skip the transcript step because generating an accurate one felt like a whole separate task — until recently.
+
+Generic AI-generated content passes a surface-level quality check:
+• Grammatically correct ✓
+• Topically relevant ✓
+• Appropriate length ✓
+
+But it fails the only check that matters for social media:
+Does this sound like the creator who made it?
+
+AI writes for the average. Your audience follows you for the specific.
+
+The fix isn't to avoid AI. It's to treat AI output as a first draft that you review and adjust before it goes anywhere near your audience.
+
+Which is exactly the step most AI-first content tools skip.",Follow if you're building a content workflow that actually preserves your voice. →,https://example.com?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=LI_024,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],Yes,Yes,2026-12-25,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.],PASS,PASS,#AIContent #CreatorVoice #ContentQuality #HumanReview,,needs_verification,75.0,100.0,0.131,,EXP_CTA:outcome-specific,awareness,09:00,avoiding generic AI content and preserving creator voice
+IG_025,Instagram,short video,Creator Pain and Workflow Friction,You recorded a great episode. It's been sitting unedited for 3 weeks.,"Source-specific lens: AI has changed this.
+
+Sound familiar?
+
+The recording isn't the problem. The 7 steps between recording and posting are.
+
+What if that gap was one workflow instead of seven tools?
+
+#ContentCreators #PodcastLife #CreatorProblems #ContentWorkflow",Save this if your drafts folder is full. Link to workflow in bio. 🔗,https://example.com?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=IG_025,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],No,Yes,2026-12-19,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.] | UTM: UTM link tracked via bio/link-in-bio. Not embedded in post. | RIGHTS: media/footage rights require human verification,PASS,PASS,#ContentCreators #PodcastLife #CreatorProblems #ContentWorkflow,,needs_verification,85.0,100.0,0.0901,,EXP_HOOK:pain-led,awareness,11:00,post-recording bottlenecks and content backlog
+LI_026,LinkedIn,text post,Product-in-Action,Smart Cut + Hooks & Titles: what these two IncuBrix features actually do in practice.,"Source-specific lens: Transcript-based editing workflows now exist where the tool follows your cursor through the text rather than the timeline.
+
+Two features in IncuBrix's transcript editing workflow worth knowing:
+
+Smart Cut:
+Automatically removes filler words, false starts, and long silences from your recording based on the transcript. You review and approve the cuts before they're applied.
+
+Hooks & Titles:
+Generates suggested hooks and titles based on the strongest moments in your content — drawn from the transcript, not invented.
+
+Together, these two features handle two of the slowest parts of the editing workflow for long-form creators: initial cuts and naming the content.
+
+They don't replace your judgment. They move you faster to the point where your judgment matters.",What part of your editing workflow takes the most time? I'll share the relevant workflow step.,https://example.com?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=LI_026,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],Yes,Yes,2026-12-28,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.],PASS,PASS,#SmartCut #TranscriptEditing #IncuBrix #ContentEditing,,verified,88.0,100.0,0.2003,,EXP_FORMAT:demo-led,consideration,09:00,Smart Cut and Hooks and Titles transcript editing
+LI_027,LinkedIn,text post,Creator Pain and Workflow Friction,Most solo creators spend more time moving files between tools than actually creating.,"Source-specific lens: You delete a sentence in the transcript and the video edits itself.
+
+Here's the creator workflow nobody talks about:
+
+Record → download → upload to transcription tool → download transcript → paste into writing tool → write captions → switch to scheduler → upload again → repeat for every platform.
+
+That's not a content strategy. That's a file management job.
+
+The real bottleneck isn't ideas. It's the tool-switching overhead that eats the hours between recording and publishing.
+
+One workflow step I've found useful: treat the transcript as the master document. Every clip, caption, and post should trace back to it.
+
+What does your post-recording workflow actually look like?",Drop your biggest post-recording time sink in the comments. ↓,https://example.com?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=LI_027,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],Yes,Yes,2026-12-30,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.],PASS,PASS,#ContentCreators #CreatorWorkflow #PodcastGrowth #ContentRepurposing,,needs_verification,84.0,100.0,0.1392,,EXP_HOOK:pain-led,awareness,09:00,tool switching and repetitive editing work
+LI_028,LinkedIn,text post,Practical AI and Human Judgment,AI gets the clip. You choose whether it's the right clip.,"Source-specific lens: That alone removes one of the biggest friction points in the whole process.
+
+Here's where AI tools in content creation actually help:
+
+→ Processing a 60-minute transcript in seconds
+→ Scoring clips by hook strength, novelty, and emotional weight
+→ Generating a first-draft caption from a clip's transcript
+→ Suggesting a title based on the opening hook
+
+Here's where you still need to show up:
+
+→ Deciding if the AI-scored 'top clip' actually represents your brand
+→ Reviewing captions for your actual voice (AI writes for average, not for you)
+→ Catching context that AI doesn't have (inside references, audience nuance)
+→ Approving before publishing — always
+
+AI accelerates the mechanical steps. Human judgment protects the output quality.
+
+Which AI step in content creation do you trust the most? Which the least?",Follow for more practical breakdowns of AI + creator workflows. →,https://example.com?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=LI_028,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],Yes,Yes,2027-01-01,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.],PASS,PASS,#AIContent #CreatorTools #HumanJudgment #ContentStrategy,,needs_verification,86.0,100.0,0.1086,,EXP_HOOK:pain-led,awareness,09:00,where AI helps and where human review is needed
+LI_029,LinkedIn,text post,Product-in-Action,The guided Audio workflow in IncuBrix: what it actually does and when to use it.,"Source-specific lens: But here's where I'd push back on anyone who thinks AI solves everything: it doesn't.
+
+If you create audio content — podcasts, voiceovers, narrations — the guided Audio workflow in IncuBrix takes you from idea to generated voiceover in one place.
+
+The sequence:
+1. Enter your topic or existing script
+2. AI generates a draft script you can refine inline
+3. Choose your tone/style (the tool offers style adaptation)
+4. AI recommends voices and you choose from multiple options
+5. Adjust pause and stability controls
+6. Generate and review the voiceover
+
+Voice cloning is also available as an option — which lets you use your own voice as the base.
+
+This is the kind of workflow that reduces the gap between 'idea' and 'ready-to-publish' without requiring you to switch between five different tools.",What does your current audio production workflow look like? I'm curious about the friction points.,https://example.com?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=LI_029,,,"The Content Repurposing Problem Nobody Talks About
+
+I've been making content for a while now — podcasts, YouTube videos, the occasional webinar — and if there's one thing I've learned the hard way, it",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],Yes,Yes,2027-01-04,,,,,Ready,[MOCK MODE — Deterministic demo content. Not live AI output.],PASS,PASS,#AudioProduction #VoiceoverWorkflow #PodcastProduction #IncuBrix,,verified,88.0,100.0,0.2481,,EXP_FORMAT:demo-led,consideration,09:00,"guided Audio workflow: script, style, voice, voiceover, voice cloning"

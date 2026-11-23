@@ -1,0 +1,41 @@
+2026-11-23 11:27:49 [INFO] content_engine — ============================================================
+2026-11-23 11:27:49 [INFO] content_engine — IncuBrix Social Media Content Engine
+2026-11-23 11:27:49 [INFO] content_engine — Run ID: run_20261123_112749
+2026-11-23 11:27:49 [INFO] content_engine — Mode: mock | Provider: mock
+2026-11-23 11:27:49 [INFO] content_engine — Refresh: False | Dry-run: False
+2026-11-23 11:27:49 [INFO] content_engine — ============================================================
+2026-11-23 11:27:49 [INFO] content_engine — Input loaded: sample_input.txt (663 words, 3944 chars)
+2026-11-23 11:27:49 [INFO] content_engine.generator — MockGenerationProvider initialized with seed=42
+2026-11-23 11:27:49 [INFO] content_engine — Generating 32 candidate assets (provider: MockGenerationProvider)
+2026-11-23 11:27:49 [INFO] content_engine.generator — [MOCK] Generating 32 candidate assets from 29 templates (seed=42)
+2026-11-23 11:27:49 [INFO] content_engine.generator — [MOCK] Generated 29 candidate assets
+2026-11-23 11:27:49 [INFO] content_engine — Generated 29 candidate assets
+2026-11-23 11:27:49 [INFO] content_engine — Running brand and claim validation...
+2026-11-23 11:27:49 [INFO] content_engine.validators — Validation complete: 29 passed, 0 failed
+2026-11-23 11:27:49 [INFO] content_engine — Validation: 29 passed, 0 failed
+2026-11-23 11:27:49 [INFO] content_engine — Computing quality scores...
+2026-11-23 11:27:49 [INFO] content_engine — Running deduplication...
+2026-11-23 11:27:49 [INFO] content_engine.dedupe — Running deduplication on 29 candidates...
+2026-11-23 11:27:49 [INFO] content_engine.dedupe — After exact dedupe: 29 remain, 0 removed
+2026-11-23 11:27:49 [INFO] content_engine.dedupe — After semantic dedupe: 29 remain, 0 removed
+2026-11-23 11:27:49 [INFO] content_engine — After dedupe: 29 unique assets, 0 duplicates removed
+2026-11-23 11:27:49 [INFO] content_engine — Applying quality threshold (>= 75.0)...
+2026-11-23 11:27:49 [INFO] content_engine — Accepted: 29 | Rejected: 0
+2026-11-23 11:27:49 [INFO] content_engine — Assigning publication schedule...
+2026-11-23 11:27:49 [INFO] content_engine.scheduler — Schedule assigned to 29 assets
+2026-11-23 11:27:49 [INFO] content_engine — Exporting outputs...
+2026-11-23 11:27:49 [INFO] content_engine.exporter — Exported 29 accepted assets to run-evidence/run_20261123_112749/accepted_assets.csv
+2026-11-23 11:27:49 [INFO] content_engine.exporter — Exported 0 rejected assets to run-evidence/run_20261123_112749/rejected_assets.csv
+2026-11-23 11:27:49 [INFO] content_engine.exporter — Exported 0 duplicate records to run-evidence/run_20261123_112749/duplicate_report.csv
+2026-11-23 11:27:49 [INFO] content_engine.exporter — Calendar written to calendar.csv (project root)
+2026-11-23 11:27:49 [INFO] content_engine.exporter — Exported 29 Ready assets to calendar.csv
+2026-11-23 11:27:49 [INFO] content_engine.exporter — Exported QA debug data (29 assets) to run-evidence/run_20261123_112749/qa_debug.csv
+2026-11-23 11:27:49 [INFO] content_engine — ============================================================
+2026-11-23 11:27:49 [INFO] content_engine — Run complete.
+2026-11-23 11:27:49 [INFO] content_engine — Run ID:    run_20261123_112749
+2026-11-23 11:27:49 [INFO] content_engine — Accepted:  29 assets
+2026-11-23 11:27:49 [INFO] content_engine — Rejected:  0 assets
+2026-11-23 11:27:49 [INFO] content_engine — Dupes:     0 removed
+2026-11-23 11:27:49 [INFO] content_engine — Runtime:   0.04s
+2026-11-23 11:27:49 [INFO] content_engine — Output:    run-evidence/run_20261123_112749
+2026-11-23 11:27:49 [INFO] content_engine — ============================================================

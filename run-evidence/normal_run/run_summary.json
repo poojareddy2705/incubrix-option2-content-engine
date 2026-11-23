@@ -1,0 +1,26 @@
+{
+  "run_id": "run_20261123_112749",
+  "input_filename": "examples/sample_input.txt",
+  "input_char_count": 3944,
+  "input_word_count": 663,
+  "timestamp": "2026-11-23T11:27:49.957351",
+  "provider": "mock",
+  "mode": "mock",
+  "seed": 42,
+  "campaign": "creator_os_launch",
+  "candidates_generated": 29,
+  "assets_accepted": 29,
+  "assets_rejected": 0,
+  "duplicates_removed": 0,
+  "runtime_seconds": 0.04,
+  "estimated_cost": "not_applicable",
+  "errors": [],
+  "output_paths": {
+    "accepted_assets": "run-evidence/run_20261123_112749/accepted_assets.csv",
+    "rejected_assets": "run-evidence/run_20261123_112749/rejected_assets.csv",
+    "duplicate_report": "run-evidence/run_20261123_112749/duplicate_report.csv",
+    "calendar": "run-evidence/run_20261123_112749/calendar.csv",
+    "qa_debug": "run-evidence/run_20261123_112749/qa_debug.csv"
+  },
+  "warnings": []
+}
