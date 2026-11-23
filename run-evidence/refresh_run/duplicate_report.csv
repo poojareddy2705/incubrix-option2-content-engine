@@ -1,0 +1,5 @@
+asset_id,matched_asset_id,similarity_score,detection_method,action_taken
+LI_005,LI_005,0.9651,tfidf_cosine,rejected
+YT_010,YT_010,0.9647,tfidf_cosine,rejected
+LI_019,LI_019,0.9421,tfidf_cosine,rejected
+IG_023,IG_023,0.9423,tfidf_cosine,rejected

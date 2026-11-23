@@ -1,0 +1,18 @@
+asset_id,platform,format,content_pillar,hook,caption,cta,utm_link,final_file_url,source_file_url,source_input,tools_used,rights_checked,ai_label_needed,scheduled_date,test_published_url,impressions_or_views,engagement_rate,clicks,status,notes,duplicate_check,completeness_check,rejection_reason,quality_score,brand_score
+LI_024,LinkedIn,text post,Practical AI and Human Judgment,The worst AI content sounds like it could have been written by anyone. That's the problem.,"Source-specific lens: Is this something the audience has heard before in roughly this form, or does it offer a genuinely different angle? Familiar topics can work, but they need a fresh frame.
+
+Generic AI-generated content passes a surface-level quality check:
+• Grammatically correct ✓
+• Topically relevant ✓
+• Appropriate length ✓
+
+But it fails the only check that matters for social media:
+Does this sound like the creator who made it?
+
+AI writes for the average. Your audience follows you for the specific.
+
+The fix isn't to avoid AI. It's to treat AI output as a first draft that you review and adjust before it goes anywhere near your audience.
+
+Which is exactly the step most AI-first content tools skip.",Follow if you're building a content workflow that actually preserves your voice. →,https://example.com?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_os_launch&utm_content=LI_024,,,"From One Interview to a Full Week of Content
+
+If you've ever sat down after recording an interview or webinar and thought, ""I know there's good stuff in there — I just don't know how to get it out,"" y",IncuBrix Content Engine v1.0 | [MOCK MODE — Deterministic demo content. Not live AI output.],Yes,Yes,,,,,,Rejected,[MOCK MODE — Deterministic demo content. Not live AI output.],,PASS,Quality score 73.0 below threshold 75.0,73.0,100.0

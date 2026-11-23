@@ -1,0 +1,27 @@
+{
+  "candidates_generated": 29,
+  "accepted": 24,
+  "rejected": 1,
+  "duplicates_removed": 4,
+  "acceptance_rate": "82.8%",
+  "average_quality_score": 84.67,
+  "average_brand_score": 100.0,
+  "platform_distribution": {
+    "youtube_shorts": 4,
+    "instagram": 8,
+    "linkedin": 12
+  },
+  "pillar_distribution": {
+    "Practical AI and Human Judgment": 4,
+    "Product-in-Action": 7,
+    "Repurposing Education": 7,
+    "Creator Pain and Workflow Friction": 6
+  },
+  "experiment_distribution": {
+    "EXP_CTA": 3,
+    "EXP_FORMAT": 11,
+    "EXP_HOOK": 10
+  },
+  "validation_issues_total": 0,
+  "claim_flags_total": 0
+}

@@ -1,0 +1,62 @@
+2026-11-23 11:27:55 [INFO] content_engine — ============================================================
+2026-11-23 11:27:55 [INFO] content_engine — IncuBrix Social Media Content Engine
+2026-11-23 11:27:55 [INFO] content_engine — Run ID: run_20261123_112755
+2026-11-23 11:27:55 [INFO] content_engine — Mode: mock | Provider: mock
+2026-11-23 11:27:55 [INFO] content_engine — Refresh: True | Dry-run: False
+2026-11-23 11:27:55 [INFO] content_engine — ============================================================
+2026-11-23 11:27:55 [INFO] content_engine — Input loaded: new_input.txt (623 words, 3737 chars)
+2026-11-23 11:27:55 [INFO] content_engine — [REFRESH] Loaded 29 prior accepted assets for duplicate checking
+2026-11-23 11:27:55 [INFO] content_engine.generator — MockGenerationProvider initialized with seed=42
+2026-11-23 11:27:55 [INFO] content_engine — Generating 32 candidate assets (provider: MockGenerationProvider)
+2026-11-23 11:27:55 [INFO] content_engine.generator — [MOCK] Generating 32 candidate assets from 29 templates (seed=42)
+2026-11-23 11:27:55 [INFO] content_engine.generator — [MOCK] Generated 29 candidate assets
+2026-11-23 11:27:55 [INFO] content_engine — Generated 29 candidate assets
+2026-11-23 11:27:55 [INFO] content_engine — Running brand and claim validation...
+2026-11-23 11:27:55 [INFO] content_engine.validators — Validation complete: 29 passed, 0 failed
+2026-11-23 11:27:55 [INFO] content_engine — Validation: 29 passed, 0 failed
+2026-11-23 11:27:55 [INFO] content_engine — Computing quality scores...
+2026-11-23 11:27:55 [INFO] content_engine — Running deduplication...
+2026-11-23 11:27:55 [INFO] content_engine.dedupe — Running deduplication on 29 candidates...
+2026-11-23 11:27:55 [INFO] content_engine.dedupe — After exact dedupe: 29 remain, 0 removed
+2026-11-23 11:27:55 [INFO] content_engine.dedupe — After semantic dedupe: 25 remain, 4 removed
+2026-11-23 11:27:55 [INFO] content_engine — After dedupe: 25 unique assets, 4 duplicates removed
+2026-11-23 11:27:55 [INFO] content_engine — Applying quality threshold (>= 75.0)...
+2026-11-23 11:27:55 [INFO] content_engine — Accepted: 24 | Rejected: 1
+2026-11-23 11:27:55 [INFO] content_engine — Assigning publication schedule...
+2026-11-23 11:27:55 [INFO] content_engine.scheduler — Schedule assigned to 24 assets
+2026-11-23 11:27:55 [INFO] content_engine — Exporting outputs...
+2026-11-23 11:27:55 [INFO] content_engine.exporter — Exported 24 accepted assets to run-evidence/run_20261123_112755/accepted_assets.csv
+2026-11-23 11:27:55 [INFO] content_engine.exporter — Exported 1 rejected assets to run-evidence/run_20261123_112755/rejected_assets.csv
+2026-11-23 11:27:55 [INFO] content_engine.exporter — Exported 4 duplicate records to run-evidence/run_20261123_112755/duplicate_report.csv
+2026-11-23 11:27:55 [INFO] content_engine.exporter — Calendar written to calendar.csv (project root)
+2026-11-23 11:27:55 [INFO] content_engine.exporter — Exported 24 Ready assets to calendar.csv
+2026-11-23 11:27:55 [INFO] content_engine.exporter — Exported QA debug data (25 assets) to run-evidence/run_20261123_112755/qa_debug.csv
+2026-11-23 11:27:55 [INFO] content_engine — ============================================================
+2026-11-23 11:27:55 [INFO] content_engine — Run complete.
+2026-11-23 11:27:55 [INFO] content_engine — Run ID:    run_20261123_112755
+2026-11-23 11:27:55 [INFO] content_engine — Accepted:  24 assets
+2026-11-23 11:27:55 [INFO] content_engine — Rejected:  1 assets
+2026-11-23 11:27:55 [INFO] content_engine — Dupes:     4 removed
+2026-11-23 11:27:55 [INFO] content_engine — Runtime:   0.05s
+2026-11-23 11:27:55 [INFO] content_engine — Output:    run-evidence/run_20261123_112755
+2026-11-23 11:27:55 [INFO] content_engine — ============================================================
+
+============================================================
+IncuBrix Content Engine — Run Complete
+============================================================
+  Run ID:         run_20261123_112755
+  Mode:           mock (mock)
+  Input:          examples/new_input.txt
+  Candidates:     29
+  Accepted:       24 assets ✓
+  Rejected:       1 assets
+  Duplicates:     4 removed
+  Runtime:        0.05s
+  Avg quality:    84.67
+  Cost estimate:  not_applicable
+
+  Output directory: run-evidence/run_20261123_112755
+  Calendar CSV:     calendar.csv (project root)
+  Run evidence:     run-evidence/
+============================================================
+
