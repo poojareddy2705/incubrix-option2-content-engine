@@ -1,0 +1,67 @@
+voice:
+  tone:
+    - practical
+    - confident
+    - creator-first
+    - intelligent
+    - concise
+    - non-hype
+    - educational
+  core_principle: "Teach first. Demonstrate second. Promote third."
+  content_flow: "creator problem -> useful insight -> practical action -> relevant product connection -> CTA"
+
+banned_phrases:
+  - "revolutionary"
+  - "game-changing"
+  - "best AI ever"
+  - "unlock your potential"
+  - "guaranteed"
+  - "effortless"
+  - "instant success"
+  - "transform your life"
+  - "10x your"
+  - "crush it"
+  - "skyrocket"
+  - "explode your"
+  - "secret formula"
+  - "one weird trick"
+  - "hack your way"
+
+unsupported_claim_patterns:
+  - "proven to increase"
+  - "customers report"
+  - "users say"
+  - "our data shows"
+  - "studies show"
+  - "clinically proven"
+  - "X% of users"
+  - "saves you X hours"
+
+quality_threshold: 75
+brand_score_threshold: 70
+
+verified_capabilities:
+  - "Home workspace with Text, Audio, Video, Clips and Editor"
+  - "Publishing workflow"
+  - "Content Hub"
+  - "Dashboard"
+  - "Connections interface"
+  - "guided Audio workflow"
+  - "script generation and refinement"
+  - "style adaptation"
+  - "AI voice recommendation"
+  - "multiple voice choices"
+  - "voice cloning option"
+  - "natural pause controls"
+  - "stability controls"
+  - "generated voiceover"
+  - "Clips input via upload or Content Hub"
+  - "Clips optimization: Virality, Hook, Emotion, Novelty, Relevance, Overall Score"
+  - "transcript-based editing"
+  - "captions"
+  - "Smart Cut"
+  - "Hooks and Titles"
+  - "ratio controls"
+  - "Highlight and Reel modes"
+  - "content library and storage"
+  - "analytics interface"

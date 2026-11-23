@@ -1,0 +1,47 @@
+engine:
+  campaign: "creator_os_launch"
+  base_url: "https://example.com"
+  output_dir: "run-evidence"
+  candidate_count: 32
+  output_count: 20
+  seed: 42
+  provider: "mock"
+  mode: "mock"
+
+dedupe:
+  exact_threshold: 1.0
+  semantic_threshold: 0.82
+  method: "tfidf_cosine"
+
+quality:
+  acceptance_threshold: 75
+  brand_score_threshold: 70
+
+content_pillars:
+  - "Creator Pain and Workflow Friction"
+  - "Repurposing Education"
+  - "Product-in-Action"
+  - "Practical AI and Human Judgment"
+
+experiments:
+  - id: "EXP_HOOK"
+    description: "pain-led vs outcome-led hooks"
+    variants: ["pain-led", "outcome-led"]
+  - id: "EXP_FORMAT"
+    description: "demo-led vs educational presentation"
+    variants: ["demo-led", "educational"]
+  - id: "EXP_CTA"
+    description: "generic vs outcome-specific CTA"
+    variants: ["generic", "outcome-specific"]
+
+schedule:
+  start_date: "2026-12-01"
+  linkedin:
+    days: ["Monday", "Wednesday", "Friday"]
+    time: "09:00"
+  instagram:
+    days: ["Tuesday", "Thursday", "Saturday"]
+    time: "11:00"
+  youtube_shorts:
+    days: ["Wednesday", "Sunday"]
+    time: "14:00"

@@ -1,0 +1,62 @@
+platforms:
+  linkedin:
+    supported_formats:
+      - text_post
+      - carousel
+      - educational_post
+      - demo_post
+    hook_requirements:
+      max_first_line_words: 15
+      must_hook_immediately: true
+    caption_constraints:
+      max_chars: 3000
+      recommended_chars: 1200
+      paragraph_style: short_concise
+    cta_rules:
+      direct_link_allowed: true
+      utm_required: true
+      cta_style: logical_direct
+    hashtag_rules:
+      max_hashtags: 5
+      required: false
+    posts_per_week: 3
+
+  instagram:
+    supported_formats:
+      - reel_script
+      - carousel_concept
+      - graphic_concept
+    hook_requirements:
+      max_first_frame_words: 10
+      must_hook_immediately: true
+    caption_constraints:
+      max_chars: 2200
+      recommended_chars: 300
+      paragraph_style: short_punchy
+    cta_rules:
+      direct_link_allowed: false
+      bio_link_reference_allowed: true
+      utm_required: false
+      cta_style: engagement_or_bio
+    hashtag_rules:
+      max_hashtags: 15
+      required: true
+    posts_per_week: 3
+
+  youtube_shorts:
+    supported_formats:
+      - short_script
+    hook_requirements:
+      max_hook_seconds: 3
+      must_hook_immediately: true
+    caption_constraints:
+      max_duration_seconds: 60
+      style: spoken_language
+    cta_rules:
+      direct_link_allowed: false
+      utm_required: false
+      cta_style: soft_subscribe_or_engage
+    hashtag_rules:
+      max_hashtags: 5
+      required: false
+    posts_per_week: 2
